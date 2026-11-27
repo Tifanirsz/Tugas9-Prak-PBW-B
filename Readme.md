@@ -11,7 +11,7 @@ PEMROGRAMAN BERBASIS WEB
 
 <br>
 
-<img src="../asset/logo_up.png" width="300">
+<img src="../Asset/logo_up.png" width="300">
 
 <br><br>
 
@@ -54,8 +54,8 @@ FAKULTAS TEKNIK UNIVERSITAS PANCASILA <br>
 
 ## Tampilan Model Tablet
 
-![View Tablet](../Asset/viewtablet.jpeg)
+![View Tablet](Asset/viewtablet.jpeg)
 
 ## Tampilan Model HP
 
-![View HP](../Asset/viewhp.jpeg)
+![View HP](Asset/viewhp.jpeg)
