@@ -50,7 +50,7 @@ FAKULTAS TEKNIK UNIVERSITAS PANCASILA <br>
 
 ## Tampilan Model Laptop
 
-![View Laptop](../Asset/viewlaptop.jpeg)
+![View Laptop](Asset/viewlaptop.jpeg)
 
 ## Tampilan Model Tablet
 
