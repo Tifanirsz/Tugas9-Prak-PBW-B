@@ -52,13 +52,13 @@ FAKULTAS TEKNIK UNIVERSITAS PANCASILA <br>
 # TUGAS 9
 
 ## Tampilan Model Laptop
-
+Menampilkan website dalam ukuran layar desktop/laptop dengan tata letak yang lebih luas.
 ![View Laptop](Asset/viewlaptop.jpeg)
 
 ## Tampilan Model Tablet
-
+Menampilkan website dengan ukuran layar sedang, sehingga tata letak menyesuaikan ukuran perangkat tablet.
 ![View Tablet](Asset/viewtablet.jpeg)
 
 ## Tampilan Model HP
-
+Menampilkan website pada layar kecil dengan penyesuaian elemen agar tetap nyaman dilihat dan digunakan melalui smartphone.
 ![View HP](Asset/viewhp.jpeg)
