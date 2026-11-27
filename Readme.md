@@ -11,7 +11,7 @@ PEMROGRAMAN BERBASIS WEB
 
 <br>
 
-<img src="../Asset/logo_up.png" width="300">
+<img src="Asset/logo_up.png" width="300">
 
 <br><br>
 
@@ -20,8 +20,11 @@ PEMROGRAMAN BERBASIS WEB
 </p>
 
 <p style="font-size: 15px; margin-top: 5px;">
-Rihhadatul Aisy Septifani Zain<br>
-4524210126
+Rihhadatul Aisy Septifani Zain/4524210126<br>
+Firyal Nibras Hariyadi / 4524210108<br>
+Joanne Trixie Isaura / 4524210109<br>
+Mujizat Hasyir Azhar / 4524210122<br>
+
 </p>
 
 <br>
